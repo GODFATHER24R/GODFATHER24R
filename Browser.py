@@ -1,3 +1,10 @@
+For importing modules see this video - 
+https://youtu.be/z-5bZ8EoKu4
+
+
+
+
+
 import sys
 from PyQt5.QtCore import *
 from PyQt5.QtWidgets import *
